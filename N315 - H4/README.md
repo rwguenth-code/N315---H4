@@ -1,4 +1,4 @@
-# MVC Homework 3
+# MVC Homework 4
 
 This project is a simple MVC-style website built using HTML, JavaScript, CSS, and npm. The site demonstrates client-side routing, reusable notifications, form validation, and user feedback.
 
@@ -11,8 +11,8 @@ Each page is loaded dynamically using JavaScript routing.
 
 ## Web4 Link
 
-https://in-info-web4.luddy.indianapolis.iu.edu/~rwguenth/N315%20-%20H3/
+https://in-info-web4.luddy.indianapolis.iu.edu/~rwguenth/N315%20-%20H4/
 
 ## GitHub Link
 
-Submit your GitHub repository link to Canvas.
+https://github.com/rwguenth-code/N315---H4/tree/main
